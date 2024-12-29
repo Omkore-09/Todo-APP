@@ -24,8 +24,22 @@ Follow these steps to run the project locally:
    ```bash
    git clone https://github.com/Omkore-09/Todo-APP.git
 
-2.Navigate to the project directory:
+2. Navigate to the project directory:
    ```bash
    cd todo-app
+   
+3. Install the dependencies:
+   ```bash
+   npm install
+   
+4. Start the development server:
+   ```bash
+   npm run dev
+
+## APP UI
+![Screenshot 2024-12-29 210558](https://github.com/user-attachments/assets/329e4424-7a58-4453-a65d-1c39e78b1020)
+
+
+
 
 
